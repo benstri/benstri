@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benpjstrickland
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering, and Full Stack development
+- 🌱 I will post more on here as I go through my years at school (Year 1)
+- 💞️ I’m looking to learn as much as I can!
 - 📫 How to reach me : bn796303@dal.ca
 
 <!---
