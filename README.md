@@ -4,7 +4,6 @@
   <li><p align="left">I am a first year Computer Science student studying at <a href="https://www.dal.ca/">Dalhousie University</a>.</p></li>
   <li><p align="left">Reach out and connect with me via <a href="https://www.linkedin.com/in/benpjstrickland/">LinkedIn</a>! </p></li>
   <li><p align="left">Contact me via email <a href="mailto:ben.strickland@dal.ca">ben.strickland@dal.ca</a></p></li>
-  <li><p align="left">Check out my <a href="https://benpjstrickland.github.io">website</a>! (Beta)</p></li>
 </ul>
 <h1 align="left">My Stack</h1>
 <div align="left">
